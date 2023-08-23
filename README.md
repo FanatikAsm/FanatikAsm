@@ -14,10 +14,10 @@
 
 # 💫 About Me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazahstan.
-- :telescope: I’m currently working on: my own BIOS version. Use only Assembly language. 
-- :seedling: I’m currently learning: how can i use power management in my BIOS version.
+- :telescope: I’m currently working on : my own BIOS version. Use only Assembly language. 
+- :seedling: I’m currently learning : how can i use power management in my BIOS version.
 - :zap: Interesting fact : I like hardcode progamming with puzzles and difficulties.
-- :mailbox: How to reach me: dzonkarter.1995@gmail.com
+- :mailbox: How to reach me : dzonkarter.1995@gmail.com
 
 
 
