@@ -14,10 +14,10 @@
 
 # 💫 About Me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazahstan.
-- :telescope: I’m currently working on:
-- :seedling: I’m currently learning:
-- :zap: 
-- :mailbox:How to reach me: 
+- :telescope: I’m currently working on: my own BIOS version. Use only Assembly language. 
+- :seedling: I’m currently learning: how can i use power management in my BIOS version.
+- :zap: Interesting fact : I like hardcode progamming with puzzles and difficulties.
+- :mailbox: How to reach me: dzonkarter.1995@gmail.com
 
 
 
@@ -51,3 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FanatikAsm&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+
+<img src="https://camo.githubusercontent.com/7a53d04f8f98cd60ef48bc291b7dbb1d22bc99f8685cf91c1cf219447814ebbd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d6772616469656e7426746578743d436f6d65253230616761696e2126666f6e7453697a653d343026616e696d6174696f6e3d7477696e6b6c696e67" width="100%"/>
+
